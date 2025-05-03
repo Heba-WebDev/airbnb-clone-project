@@ -127,9 +127,6 @@ Ensure efficient data retrieval and storage through database optimizations.
 
 `POST /properties/` Create a new property
 
-## ⭐ License
-MIT
-
 `GET /properties/{property_id}/` Retrieve a specific property
 
 `PUT /properties/{property_id}/` Update a specific property
@@ -163,3 +160,6 @@ MIT
 `PUT /reviews/{review_id}/` Update a specific review
 
 `DELETE /reviews/{review_id}/` Delete a specific review
+
+## ⭐ License
+MIT
