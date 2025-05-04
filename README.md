@@ -107,6 +107,33 @@ Ensure efficient data retrieval and storage through database optimizations.
 - Docker: Containerization tool for consistent development and deployment environments.
 - CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
+## 📐 Database Design Overview
+
+### Key entitites:
+
+1- Uses
+
+2- Properties
+
+3- Bookings
+
+4- Reviews
+
+5- Payments
+
+## 💥 Key Security Measures 
+- authentication
+  
+- Authorization
+  
+- Rate Limit
+
+## 💈 CI/CD Pipeline Overview
+
+1. Github Action
+
+2. Docker
+
 ## 📌 Endpoints Overview
 
 ### Users
