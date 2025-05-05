@@ -42,7 +42,7 @@ Ensure efficient data retrieval and storage through database optimizations.
 
 7. Database Optimizations
 
-## Roles
+## Team Roles and Responsibilities
 
 ### 🔧 Backend Role
 #### Responsibilities:
